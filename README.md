@@ -1,2 +1,2 @@
-# raspberrypi_setup
+# Raspberry Pi Setup
 ラズベリーパイの初期設定スクリプトファイルです。
